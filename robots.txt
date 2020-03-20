@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aepohlooxo.vishnus.me/sitemap.xml
